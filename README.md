@@ -38,3 +38,4 @@ scikit-learn
 xgboost
 imbalanced-learn (for handling class imbalance)
 
+![image](https://github.com/user-attachments/assets/5aa1d340-b489-4006-9e69-c7fd526702cb)
