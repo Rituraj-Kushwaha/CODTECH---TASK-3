@@ -35,13 +35,21 @@ Visualization: Generate plots to visualize the results, such as ROC curves and f
 **Requirements**
 
 Python 3.x
-Libraries:
+
+_Libraries:_
+
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 xgboost
+
 imbalanced-learn (for handling class imbalance)
 
 ![image](https://github.com/user-attachments/assets/fe79d3a2-ffe9-4755-a505-da6bbc25d2c4)
